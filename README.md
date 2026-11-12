@@ -1,4 +1,4 @@
-<project-name>/
+<game-saving-loader-promises>/
 ├── src/
 │   ├── css/
 │   │   └── style.css
